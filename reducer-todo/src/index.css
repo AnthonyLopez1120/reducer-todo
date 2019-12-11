@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1{
+  text-align: center;
+}
+
+.form-div{
+  text-align: center
+}
+
+.todo-item{
+  color: blue;
+  padding: 10px;
+  margin:20px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.complete{
+  color: red;
+  text-decoration: line-through;
+}
+
+.container {
+  background-image: linear-gradient(to bottom, lightblue, lightgreen);
+  background-size: cover;
+  color: white;
+  padding: 30px 15px;
+  margin: 50px auto;
+  width: 40%;
+  max-width: 400px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 4px 5px #888888;
+}
